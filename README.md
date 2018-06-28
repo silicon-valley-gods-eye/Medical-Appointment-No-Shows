@@ -28,3 +28,5 @@ Handcap = True or False
 SMS_received = 1 or more messages sent to the patient. 
 
 **No-show** = True or False
+
+EDA finished
